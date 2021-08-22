@@ -1,15 +1,14 @@
 {
-  "name": "nsl",
-  "version": "0.1.0",
+  "name": "@hulkpham/nsl",
+  "version": "0.0.1",
   "description": "Node.js smart logging",
   "license": "MIT",
-  "repository": "GoodGameHUSC/nsl",
-  "main": "dist/index.js",
-  "author": {
-    "name": "Hulk Pham",
-    "email": "tanhunghue@gmail.com",
-    "url": "https://github.com/GoodGameHUSC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoodGameHUSC/nsl.git"
   },
+  "main": "dist/index.js",
+  "author": "Hulk Pham <tanhunghue@gmail.com> (https://github.com/GoodGameHUSC)",
   "files": [
     "dist",
     "src"
@@ -71,5 +70,12 @@
     "prettier": "1.18.2",
     "rimraf": "2.6.3",
     "standard-version": "6.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/GoodGameHUSC/nsl/issues"
+  },
+  "homepage": "https://github.com/GoodGameHUSC/nsl#readme",
+  "directories": {
+    "test": "test"
   }
 }

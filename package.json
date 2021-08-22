@@ -42,7 +42,8 @@
     ]
   },
   "keywords": [
-    "generator-nod"
+    "nodejs",
+    "logging"
   ],
   "dependencies": {},
   "devDependencies": {

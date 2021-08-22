@@ -1,6 +1,6 @@
 {
   "name": "nsl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Node.js smart logging",
   "license": "MIT",
   "repository": "GoodGameHUSC/nsl",

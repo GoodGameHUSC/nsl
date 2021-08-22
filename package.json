@@ -1,14 +1,14 @@
 {
-  "name": "generator-nod",
+  "name": "nsl",
   "version": "0.0.1",
-  "description": "My node module",
+  "description": "Node.js smart logging",
   "license": "MIT",
-  "repository": "diegohaz/nod",
+  "repository": "GoodGameHUSC/nsl",
   "main": "dist/index.js",
   "author": {
-    "name": "Diego Haz",
-    "email": "hazdiego@gmail.com",
-    "url": "https://github.com/diegohaz"
+    "name": "Hulk Pham",
+    "email": "tanhunghue@gmail.com",
+    "url": "https://github.com/GoodGameHUSC"
   },
   "files": [
     "dist",
